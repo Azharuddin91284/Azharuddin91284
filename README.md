@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Azharuddin91284](https://github.com/Azharuddin91284)
 
-- 💬 Ask me about **C++ ,Java,frontend development**
+- 💬 Ask me about **JavaScript,ReactJs ,Java,frontend development**
 
-- 📫 How to reach me **ansariazharuddin91284@gmail.com**
+- 📫 How to reach me **azharuddintech915@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/jobs/application-settings/](https://www.linkedin.com/jobs/application-settings/)
 
